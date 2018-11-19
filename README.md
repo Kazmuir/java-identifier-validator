@@ -2,7 +2,7 @@
 
 # Overview
 
-During my 'Java' course at University, I tend to foget the rules of legal identifiers. I created a small program where I may quickly type in my identifier name and receive feedback on it's legality. I plan to expand on this program by adding options to validate identifiers of other programming languages such as C++, Ruby, Python, etc.
+During my `Java` course at University, I tend to foget the rules of legal identifiers. I created a small program where I may quickly type in my identifier name and receive feedback on it's legality. I plan to expand on this program by adding options to validate identifiers of other programming languages such as C++, Ruby, Python, etc.
 
 
 ### Snapshot:
