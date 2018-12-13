@@ -2,7 +2,7 @@
 
 # Overview
 
-During my `Java` course at University, I tend to foget the rules of legal identifiers. I created a small program where I may quickly type in my identifier name and receive feedback on it's legality so I never need to wonder or search the rules again.
+During my `Java` course at University, I tend to forget the rules of legal identifiers. I created a small program where I may quickly type in my identifier name and receive feedback on it's legality so I never need to wonder or search the rules again.
 
 ### Snapshot:
 
